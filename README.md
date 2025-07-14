@@ -6,7 +6,7 @@ This project implements and compares three deep learning models — a simple Neu
 
 - **Dataset**: 50,000 IMDb movie reviews (balanced positive and negative).
 - **Objective**: Classify reviews as positive (1) or negative (0).
-- **Approach**: Compare performance of NN, CNN, and LSTM models using the same word embeddings and preprocessing pipeline.
+- **Approach**: Compare performance of NN, CNN, and LSTM models using the glove word embeddings and FastText word embeddings and preprocessing pipeline.
 
 ## 🗃️ Dataset
 
